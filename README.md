@@ -18,5 +18,5 @@ The tool performs two tasks:
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/[your-username]/passive-aggressive-email-rewriter.git
+   git clone https://github.com/vivekschaurasia/Passive-Aggressive-Email-Rewriter.git
    cd passive-aggressive-email-rewriter
