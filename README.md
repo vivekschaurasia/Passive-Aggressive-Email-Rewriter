@@ -1,6 +1,6 @@
 # Passive-Aggressive Email Rewriter
 
-This repository houses an NLP pipeline that detects email tones with BERT and rewrites them passive-aggressively using GPT-2 fine-tuned with LoRA (Low-Rank Adaptation).
+This repository has an NLP pipeline that detects email tones with BERT and rewrites them passive-aggressively using GPT-2 fine-tuned with LoRA (Low-Rank Adaptation).
 
 ## Project Overview
 The tool performs two tasks:
